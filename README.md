@@ -76,6 +76,10 @@ For example:  "pip install -U scikit-learn" or "conda install -c conda-forge sci
             SciPy
             Matplotlib
             LightGBM
+            Random Forest
+            Logistic Regression
+            Decision Trees
+            XGBoost
 
 ## Usage
 
