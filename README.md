@@ -46,7 +46,7 @@ The major frameworks used to build the project.
 * [Random Forest](https: //scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * [Logistic Regression](https: //scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 * [Decision Trees](https: //scikit-learn.org/stable/modules/tree.html)
-* [XGBoost](https: //xgboost.readthedocs.io/en/stable/)
+* [XGBoost] (https: //xgboost.readthedocs.io/en/stable/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
