@@ -43,10 +43,10 @@ The major frameworks used to build the project.
 * [SciPy](https://scipy.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.2/)
-* [Random Forest](https: //scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-* [Logistic Regression](https: //scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-* [Decision Trees](https: //scikit-learn.org/stable/modules/tree.html)
-* [XGBoost] (https: //xgboost.readthedocs.io/en/stable/)
+* [Random Forest](https: //scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html.com)
+* [Logistic Regression](https: //scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html.com)
+* [Decision Trees](https: //scikit-learn.org/stable/modules/tree.html.com)
+* [XGBoost](https: //xgboost.readthedocs.io/en/stable.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
