@@ -26,7 +26,7 @@ In this repository, we have performed the end to end Exploratory Data Analysis, 
 ### 🟢 For Model Deployment, please refer to app.py
 ## Steps to follow the repository
 
-1. The EDA and base line model is present in [link](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction/blob/master/amex-default-prediction-eda-lgbmbaseline.ipynb)
+1. The EDA and all the models are present in the ipynb file)
 
 
 
