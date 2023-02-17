@@ -60,7 +60,7 @@ https://www.kaggle.com/competitions/amex-default-prediction
 2. Clone the repo
 
 ```
-git clone https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction
+git clone https://github.com/yashcoder007/Telco_churn_rate_prediction.git
 ```
 3. Install packages using  conda or pip.
 For example:  "pip install -U scikit-learn" or "conda install -c conda-forge scikit-learn"
@@ -81,8 +81,7 @@ For example:  "pip install -U scikit-learn" or "conda install -c conda-forge sci
 ## Contributing
 
 Contributions have made the open source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing any parts in my notebook, feel free to [open an issue](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction
-/issues) to discuss it, or directly create a pull request.
+* If you have suggestions for adding or removing any parts in my notebook, feel free to [open an issue](https://github.com/yashcoder007/Telco_churn_rate_prediction.git/issues) to discuss it, or directly create a pull request.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
 
@@ -96,7 +95,7 @@ Contributions have made the open source community an amazing place to learn, ins
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction.git/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/Telco_churn_rate_prediction.git/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
